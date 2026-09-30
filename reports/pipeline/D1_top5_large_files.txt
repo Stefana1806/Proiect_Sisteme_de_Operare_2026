@@ -1,0 +1,5 @@
+6922	./reports/process/B2_pstree.txt
+3500	./doc/T1_comenzi.md
+1447	./tools/t1_audit.sh
+1162	./reports/pipeline/D3_count-commands.txt
+834	./reports/T1_summary.txt

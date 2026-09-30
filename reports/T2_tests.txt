@@ -1,0 +1,5 @@
+--- Rezultate Teste T2 - 2026-05-24 13:33:47 ---
+test_build_recursive.sh: PASS
+test_init.sh: PASS
+t5_signals_pipes.sh: PASS
+t4_inventory.sh: PASS

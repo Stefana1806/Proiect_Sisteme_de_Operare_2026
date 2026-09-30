@@ -1,0 +1,15 @@
+-**comanda:**
+-**comanda:** cat /proc/cpuinfo  | grep "model name" |uniq >> /home/stefana/Desktop/proiect_31091001011ROSL251071/reports/proc/C1_cpu_model.txt
+-**comanda:** cat /proc/uptime
+-**comanda:** du -h --max-depth=1 */ >> /home/stefana/Desktop/proiect_31091001011ROSL251071/reports/fs/A3_du_level1.txt
+-**comanda:** find . -type f -name *.sh
+-**comanda:** find . -type f | xargs du -sh | sort -rh | head -5
+-**comanda:** grep MemAvailable /proc/meminfo >> /home/stefana/Desktop/proiect_31091001011ROSL251071/reports/proc/C2_mem_totala.txt 
+-**comanda:** grep MemTotal /proc/meminfo >> /home/stefana/Desktop/proiect_31091001011ROSL251071/reports/proc/C2_mem_totala.txt 
+-**comanda:** ls -l -a >/home/stefana/Desktop/proiect_31091001011ROSL251071/reports/fs/A1_ls_long.txt
+-**comanda:** pgrep -l sleep
+-**comanda:** ps -eo pid,comm --sort=-%mem | tail -n +6 | head -5 | uniq
+-**comanda:** pstree > /home/stefana/Desktop/proiect_31091001011ROSL251071/reports/process/B2_pstree.txt 
+-**comanda:** sleep 60 &
+-**comanda:** top -b -o %MEM -n 1 | head -n 17 > /home/stefana/Desktop/proiect_31091001011ROSL251071/reports/process/B1_top_mem.txt 
+numar comenzi: 14

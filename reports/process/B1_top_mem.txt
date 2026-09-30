@@ -1,0 +1,10 @@
+    PID COMMAND         %MEM
+   2227 firefox-bin      2.7
+   2500 Isolated Web Co  2.4
+   1606 cinnamon         1.2
+   2855 xreader          1.1
+   2344 Privileged Cont  0.9
+   1013 Xorg             0.8
+   2410 WebExtensions    0.6
+   1934 mintUpdate       0.5
+   1868 nemo             0.4

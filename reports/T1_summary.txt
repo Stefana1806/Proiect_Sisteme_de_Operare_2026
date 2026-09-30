@@ -1,0 +1,40 @@
+=== SUMAR ===
+Start:  2026-03-09 18:43:44
+End:    2026-03-09 18:43:44
+Durata: 0 secunde
+
+=== FISIERE CREATE ===
+.
+./src
+./data
+./logs
+./tests
+./tmp
+./doc
+./doc/README.md
+./doc/T1_comenzi.md
+./reports
+./reports/proc
+./reports/proc/C3_uptime.txt
+./reports/proc/C1_cpu_model.txt
+./reports/proc/C2_mem_totala.txt
+./reports/pipeline
+./reports/pipeline/D3_count_commands.txt~
+./reports/pipeline/D1_top5_large_files.txt
+./reports/pipeline/D3_count_commands.txt
+./reports/pipeline/D3_count-commands.txt
+./reports/pipeline/D2_top5_proc_mem_pid_name.txt
+./reports/T1_summary.txt
+./reports/fs
+./reports/fs/A3_du_level1.txt
+./reports/fs/A2_find-sh.txt
+./reports/fs/A2_find_sh.txt
+./reports/fs/A1_ls_long.txt
+./reports/process
+./reports/process/B1_top_mem.txt
+./reports/process/B2_pstree.txt
+./reports/process/B3_pgrep_sleep.txt
+./include
+./bin
+./tools
+./tools/t1_audit.sh
